@@ -32,17 +32,6 @@ pre { background: #272b24; color: #96c93d; }
 .blog-logo img { height: 36px; padding: 0; }
 .main-header, .no-cover.main-header { min-height: 66px; height: 68px; text-align: left; margin-bottom: 3rem; background-color: #272b24; padding: 0; }
 
-@media only screen and (max-width: 900px) {
-
-    .main-header, .no-cover.main-header {
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
-        height: auto;
-        height: 35vh;
-    }
-}
-
 
 .page-title, .page-description, .post-meta, .tag-title { font-family: "Gotham SSm A", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; }
 
@@ -98,5 +87,22 @@ body:not(.post-template) .post-title, .post-title { font-size: 2.2rem; }
 	transition:all 0.1s linear;
 	letter-spacing:1px
 }
+
+@media only screen and (max-width: 900px) {
+
+    .main-header, .no-cover.main-header {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        height: auto;
+        height: 20vh;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+
+	.post { margin: 2rem 16px; }
+}
+
 
 
