@@ -2052,6 +2052,8 @@ body.js-mobile-nav-open {
 	font-weight: 300;
 	text-transform: uppercase;
 	font-size: 1.42151em}
+.global-section-navigation__title h2 a,.global-section-navigation__title .h2 a {
+	color: #252623;}
 .global-section-navigation__links {
 	float: right;
 	font-weight: 300}
