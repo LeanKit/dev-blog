@@ -6,21 +6,21 @@
 {{! Everything inside the #post tags pulls data from the post }}
 {{#post}}
 
-<main class="content" role="main">
+<main class="site-main" role="main">
     <article class="{{post_class}}">
 
         <header class="post-header">
-            <h1 class="post-title">{{title}}</h1>
-            <section class="post-meta">
+            <h1 class="blog-post-title">{{title}}</h1>
+            <section class="blog-post-meta">
                 <time class="post-date" datetime="{{date format='YYYY-MM-DD'}}">{{date format="DD MMMM YYYY"}}</time> {{tags prefix=" on "}}
             </section>
         </header>
 
-        <section class="post-content">
+        <section class="entry-content">
             {{content}}
         </section>
 
-        <footer class="post-footer">
+        <footer class="post-footer entry-footer">
 
         {{! Everything inside the #author tags pulls data from the author }}
         {{#author}}
@@ -32,7 +32,7 @@
             {{/if}}
 
             <section class="author">
-                <h4>Written by <a href="{{url}}">{{name}}</a></h4>
+                <h4>About the Author: <a href="{{url}}">{{name}}</a></h4>
 
                 {{#if bio}}
                     <p>{{bio}}</p>
@@ -79,24 +79,5 @@
 
     </article>
 </main>
-
-<aside class="read-next">
-    {{#next_post}}
-    <a class="read-next-story {{#if image}}" style="background-image: url({{image}}){{else}}no-cover{{/if}}" href="{{url}}">
-        <section class="post">
-            <h2>{{title}}</h2>
-            <p>{{excerpt words="19"}}&hellip;</p>
-        </section>
-    </a>
-    {{/next_post}}
-    {{#prev_post}}
-    <a class="read-next-story prev {{#if image}}" style="background-image: url({{image}}){{else}}no-cover{{/if}}" href="{{url}}">
-        <section class="post">
-            <h2>{{title}}</h2>
-            <p>{{excerpt words="19"}}&hellip;</p>
-        </section>
-    </a>
-    {{/prev_post}}
-</aside>
 
 {{/post}}
