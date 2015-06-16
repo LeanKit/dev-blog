@@ -1,0 +1,12 @@
+{{!< default}}
+
+{{> "header"}}
+
+{{! The main content area on the homepage }}
+<main class="content" role="main">
+
+    <h1 class="tag-title">Posts on {{tag.name}}</h1>
+    {{! The tag below includes the post loop - partials/loop.hbs }}
+    {{> "loop"}}
+
+</main>
