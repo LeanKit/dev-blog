@@ -357,7 +357,7 @@ input[name="businessPhone"] {
 .field-wrapper {
 	position: static}
 .js-float {
-	float: left;
+	/* float: left; */
 	width: 50%;
 	padding-right: 1em}
 .js-float ~ .js-float {
@@ -476,7 +476,7 @@ body {
 	display: table}
 }
 .global-footer__colophon {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 7.42297%;
 	width: 100%}
@@ -484,7 +484,7 @@ body {
 	margin-right: 0}
 @media screen and (min-width: 769px) {
 	.global-footer__colophon {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 3.57866%;
 	width: 100%}
@@ -493,7 +493,7 @@ body {
 }
 @media screen and (min-width: 1025px) {
 	.global-footer__colophon {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 100%}
@@ -502,7 +502,7 @@ body {
 }
 @media screen and (min-width: 1200px) {
 	.global-footer__colophon {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 100%}
@@ -991,9 +991,9 @@ body.js-mobile-nav-open {
 	width: 40%}
 }
 .global-newsletter-subscribe__form input[type="email"] {
-	float: left;
+	/* float: left; */
 	background-color: transparent;
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 7.42297%;
 	width: 54.34524%}
@@ -1001,7 +1001,7 @@ body.js-mobile-nav-open {
 	margin-right: 0}
 @media screen and (min-width: 480px) {
 	.global-newsletter-subscribe__form input[type="email"] {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 7.42297%;
 	width: 59.71639%}
@@ -1010,7 +1010,7 @@ body.js-mobile-nav-open {
 }
 @media screen and (min-width: 769px) {
 	.global-newsletter-subscribe__form input[type="email"] {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 3.57866%;
 	width: 61.158%}
@@ -1019,7 +1019,7 @@ body.js-mobile-nav-open {
 }
 @media screen and (min-width: 1025px) {
 	.global-newsletter-subscribe__form input[type="email"] {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 65.88078%}
@@ -1028,7 +1028,7 @@ body.js-mobile-nav-open {
 }
 .global-newsletter-subscribe__form input[type="submit"] {
 	font-size: .845em;
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 7.42297%;
 	width: 38.23179%}
@@ -1036,7 +1036,7 @@ body.js-mobile-nav-open {
 	margin-right: 0}
 @media screen and (min-width: 480px) {
 	.global-newsletter-subscribe__form input[type="submit"] {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 7.42297%;
 	width: 32.86064%}
@@ -1045,7 +1045,7 @@ body.js-mobile-nav-open {
 }
 @media screen and (min-width: 769px) {
 	.global-newsletter-subscribe__form input[type="submit"] {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 3.57866%;
 	width: 35.26334%}
@@ -1054,7 +1054,7 @@ body.js-mobile-nav-open {
 }
 @media screen and (min-width: 1025px) {
 	.global-newsletter-subscribe__form input[type="submit"] {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 31.76157%}
@@ -1062,7 +1062,7 @@ body.js-mobile-nav-open {
 	margin-right: 0}
 }
 .global-newsletter-subscribe__disclaimer {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 100%;
@@ -1107,7 +1107,7 @@ body.js-mobile-nav-open {
 	width: 16%;
 	margin-left: 4%;
 	clear: none;
-	float: left;
+	/* float: left; */
 	margin-top: 0em}
 .global-footer__column:first-child {
 	margin-left: 0}
@@ -1213,7 +1213,7 @@ body.js-mobile-nav-open {
 	clear: both;
 	display: block;
 	text-align: center;
-	margin-top: 4em;
+	padding-top: 4em;
 	font-size: .8em;
 	color: #969b93}
 .hero {
@@ -1229,7 +1229,7 @@ body.js-mobile-nav-open {
 	content: "";
 	display: table}
 .hero .hero__leaderboard__messaging {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 7.42297%;
 	width: 81.20098%}
@@ -1237,7 +1237,7 @@ body.js-mobile-nav-open {
 	margin-right: 0}
 @media screen and (min-width: 480px) {
 	.hero .hero__leaderboard__messaging {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 7.42297%;
 	width: 54.34524%}
@@ -1246,7 +1246,7 @@ body.js-mobile-nav-open {
 }
 @media screen and (min-width: 769px) {
 	.hero .hero__leaderboard__messaging {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 3.57866%;
 	width: 48.21067%}
@@ -1255,7 +1255,7 @@ body.js-mobile-nav-open {
 }
 @media screen and (min-width: 1025px) {
 	.hero .hero__leaderboard__messaging {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 40.29137%}
@@ -1470,7 +1470,7 @@ body.js-mobile-nav-open {
 .product-intro__value-propositions {
 	margin-top: 1em}
 .product-intro__value-propositions .product-intro__value-proposition {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 7.42297%;
 	width: 100%;
@@ -1482,7 +1482,7 @@ body.js-mobile-nav-open {
 @media screen and (min-width: 480px) {
 	.product-intro__value-propositions .product-intro__value-proposition {
 	margin-top: 0em;
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 7.42297%;
 	width: 27.4895%}
@@ -1492,7 +1492,7 @@ body.js-mobile-nav-open {
 @media screen and (min-width: 769px) {
 	.product-intro__value-propositions .product-intro__value-proposition {
 	margin-top: 0em;
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 3.57866%;
 	width: 30.86124%}
@@ -1501,7 +1501,7 @@ body.js-mobile-nav-open {
 }
 @media screen and (min-width: 1025px) {
 	.product-intro__value-propositions .product-intro__value-proposition {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 31.76157%}
@@ -1510,7 +1510,7 @@ body.js-mobile-nav-open {
 }
 @media screen and (min-width: 1200px) {
 	.product-intro__value-propositions .product-intro__value-proposition {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 27.49666%}
@@ -1549,7 +1549,7 @@ body.js-mobile-nav-open {
 @media screen and (min-width: 480px) {
 	.product-intro__value-propositions .product-intro__value-proposition .product-intro__value-proposition__title {
 	width: 100%;
-	float: left;
+	/* float: left; */
 	clear: both;
 	font-size: .8em;
 	text-align: center;
@@ -1575,7 +1575,7 @@ body.js-mobile-nav-open {
 @media screen and (min-width: 480px) {
 	.product-intro__value-propositions .product-intro__value-proposition .product-intro__value-proposition__copy {
 	width: 100%;
-	float: left;
+	/* float: left; */
 	clear: both;
 	text-align: center;
 	padding-right: 0em;
@@ -1610,7 +1610,7 @@ body.js-mobile-nav-open {
 	height: 400px}
 @media screen and (min-width: 769px) {
 	.lean-learning__content-block {
-	float: left;
+	/* float: left; */
 	display: block;
 	width: 50%}
 }
@@ -1832,7 +1832,7 @@ body.js-mobile-nav-open {
 	margin-bottom: 5em}
 @media screen and (min-width: 480px) {
 	.why-leankit__block {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 7.42297%;
 	width: 46.28851%}
@@ -1845,7 +1845,7 @@ body.js-mobile-nav-open {
 }
 @media screen and (min-width: 769px) {
 	.why-leankit__block {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 3.57866%;
 	width: 48.21067%}
@@ -1858,7 +1858,7 @@ body.js-mobile-nav-open {
 }
 @media screen and (min-width: 1025px) {
 	.why-leankit__block {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 31.76157%}
@@ -1913,7 +1913,7 @@ body.js-mobile-nav-open {
 	content: "";
 	display: table}
 .blog-callout__block--primary {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 100%}
@@ -1987,7 +1987,7 @@ body.js-mobile-nav-open {
 .ppc .hero,.seo .hero,.kanban .hero,.agile .hero,.project-management .hero {
 	padding: 8em 0 10em}
 .ppc .hero .hero__leaderboard__messaging,.seo .hero .hero__leaderboard__messaging,.kanban .hero .hero__leaderboard__messaging,.agile .hero .hero__leaderboard__messaging,.project-management .hero .hero__leaderboard__messaging {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 7.42297%;
 	width: 100%;
@@ -1996,7 +1996,7 @@ body.js-mobile-nav-open {
 	margin-right: 0}
 @media screen and (min-width: 769px) {
 	.ppc .hero .hero__leaderboard__messaging,.seo .hero .hero__leaderboard__messaging,.kanban .hero .hero__leaderboard__messaging,.agile .hero .hero__leaderboard__messaging,.project-management .hero .hero__leaderboard__messaging {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 3.57866%;
 	width: 87.05267%;
@@ -2007,7 +2007,7 @@ body.js-mobile-nav-open {
 }
 @media screen and (min-width: 1025px) {
 	.ppc .hero .hero__leaderboard__messaging,.seo .hero .hero__leaderboard__messaging,.kanban .hero .hero__leaderboard__messaging,.agile .hero .hero__leaderboard__messaging,.project-management .hero .hero__leaderboard__messaging {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 65.88078%;
@@ -2042,14 +2042,12 @@ body.js-mobile-nav-open {
 .global-section-navigation__container {
 	border-bottom: 1px solid #d7d9d6;
 	padding: 2em 0 0;
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 100%}
 .global-section-navigation__container: last-child {
 	margin-right: 0}
-.global-section-navigation__title {
-	float: left}
 .global-section-navigation__title h2,.global-section-navigation__title .h2 {
 	font-weight: 300;
 	text-transform: uppercase;
@@ -2062,7 +2060,7 @@ body.js-mobile-nav-open {
 	font-size: 0.8em;
 	margin-top: 2em}
 .global-section-navigation__links li {
-	float: left;
+	/* float: left; */
 	margin-left: 2em}
 .global-section-navigation__links li:first-child {
 	margin-left: 0}
@@ -2138,7 +2136,7 @@ body.js-mobile-nav-open {
 @media screen and (min-width: 1025px) {
 	.global-content--single-column {
 	margin-left: 17.05961%;
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 65.88078%}
@@ -2148,7 +2146,7 @@ body.js-mobile-nav-open {
 @media screen and (min-width: 1200px) {
 	.global-content--single-column {
 	margin-left: 21.32451%;
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 57.35098%}
@@ -2165,7 +2163,7 @@ body.js-mobile-nav-open {
 }
 @media screen and (min-width: 1200px) {
 	.global-content--single-column--left {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 65.88078%;
@@ -2203,7 +2201,7 @@ body.js-mobile-nav-open {
 	color: #969b93;
 	text-align: center;
 	width: 100%;
-	float: left;
+	/* float: left; */
 	padding-bottom: 2em;
 	border: 1px solid #d7d9d6}
 .global-testimonial__container,.global-callout-square__container {
@@ -2213,7 +2211,7 @@ body.js-mobile-nav-open {
 	padding: 3em 1em 0em}
 .global-testimonial__blockquote span {
 	display: block;
-	float: left;
+	/* float: left; */
 	font-size: 1em}
 .global-testimonial__blockquote:before {
 	content: "\201C";
@@ -2226,7 +2224,7 @@ body.js-mobile-nav-open {
 .global-testimonial__attribution {
 	clear: both;
 	width: 100%;
-	float: left;
+	/* float: left; */
 	margin-top: 1.5em}
 .global-testimonial__attribution__headshot {
 	margin: 0em 0 .5em;
@@ -2324,7 +2322,7 @@ body.js-mobile-nav-open {
 .product-section-navigation__container {
 	border-bottom: 1px solid #d7d9d6;
 	padding: 2em 0 0;
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 100%}
@@ -2348,7 +2346,7 @@ body.js-mobile-nav-open {
 	font-size: 0.8em;
 	margin-top: 2em}
 .product-section-navigation__links li {
-	float: left;
+	/* float: left; */
 	margin-left: 2em}
 .product-section-navigation__links li:first-child {
 	margin-left: 0}
@@ -2903,7 +2901,7 @@ body.js-mobile-nav-open {
 @media screen and (min-width: 1025px) {
 	.product-demo__video__container .product-demo__video__iframe {
 	margin-top: .5em;
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 74.41059%;
@@ -2913,7 +2911,7 @@ body.js-mobile-nav-open {
 }
 @media screen and (min-width: 1025px) {
 	.ppc-content {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 57.35098%}
@@ -2922,7 +2920,7 @@ body.js-mobile-nav-open {
 }
 @media screen and (min-width: 1200px) {
 	.ppc-content {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 57.35098%;
@@ -2935,7 +2933,7 @@ body.js-mobile-nav-open {
 	position: relative}
 @media screen and (min-width: 1025px) {
 	.ppc-sidebar {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 40.29137%;
@@ -3021,7 +3019,7 @@ body.js-mobile-nav-open {
 	padding: 0em}
 @media screen and (min-width: 1025px) {
 	.seo .hero .hero__leaderboard__messaging,.kanban .hero .hero__leaderboard__messaging,.agile .hero .hero__leaderboard__messaging,.project-management .hero .hero__leaderboard__messaging {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 65.88078%;
@@ -3032,7 +3030,7 @@ body.js-mobile-nav-open {
 }
 @media screen and (min-width: 1200px) {
 	.seo .hero .hero__leaderboard__messaging,.kanban .hero .hero__leaderboard__messaging,.agile .hero .hero__leaderboard__messaging,.project-management .hero .hero__leaderboard__messaging {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 65.88078%;
@@ -3044,7 +3042,7 @@ body.js-mobile-nav-open {
 @media screen and (min-width: 1025px) {
 	.seo .seo-main-content__container,.seo .seo-main-content__more-reading__container,.kanban .seo-main-content__container,.kanban .seo-main-content__more-reading__container,.agile .seo-main-content__container,.agile .seo-main-content__more-reading__container,.project-management .seo-main-content__container,.project-management .seo-main-content__more-reading__container {
 	margin-left: 17.05961%;
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 65.88078%}
@@ -3054,7 +3052,7 @@ body.js-mobile-nav-open {
 @media screen and (min-width: 1200px) {
 	.seo .seo-main-content__container,.seo .seo-main-content__more-reading__container,.kanban .seo-main-content__container,.kanban .seo-main-content__more-reading__container,.agile .seo-main-content__container,.agile .seo-main-content__more-reading__container,.project-management .seo-main-content__container,.project-management .seo-main-content__more-reading__container {
 	margin-left: 21.32451%;
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 57.35098%}
@@ -3171,7 +3169,7 @@ body.js-mobile-nav-open {
 	font-weight: 400}
 .pricing-tables__package {
 	padding: 2em 0 3em;
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 7.42297%;
 	width: 100%}
@@ -3355,7 +3353,7 @@ body.js-mobile-nav-open {
 	background: #f5f5f3;
 	padding: 4em 0}
 .about-us-founders__founder-box {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 7.42297%;
 	width: 100%;
@@ -3365,7 +3363,7 @@ body.js-mobile-nav-open {
 	margin-right: 0}
 @media screen and (min-width: 1025px) {
 	.about-us-founders__founder-box {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 48.82117%}
@@ -3440,7 +3438,7 @@ body.js-mobile-nav-open {
 	display: table}
 .case-study__body__highlights__item {
 	margin-top: 2em;
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 7.42297%;
 	width: 100%}
@@ -3448,7 +3446,7 @@ body.js-mobile-nav-open {
 	margin-right: 0}
 @media screen and (min-width: 1025px) {
 	.case-study__body__highlights__item {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 31.76157%;
@@ -3460,7 +3458,7 @@ body.js-mobile-nav-open {
 	margin-top: 0em}
 .case-study__body__highlights__item__icon {
 	width: 8.33333%;
-	float: left;
+	/* float: left; */
 	text-align: center}
 @media screen and (min-width: 1025px) {
 	.case-study__body__highlights__item__icon {
@@ -3473,7 +3471,7 @@ body.js-mobile-nav-open {
 .case-study__body__highlights__item__text {
 	width: 87.5%;
 	margin-left: 4.16667%;
-	float: left;
+	/* float: left; */
 	padding-right: 1em}
 @media screen and (min-width: 1025px) {
 	.case-study__body__highlights__item__text {
@@ -3538,13 +3536,13 @@ body.js-mobile-nav-open {
 	font-size: 1.2em;
 	margin-top: 4em}
 .customers-content__case-studies__container {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 100%;
 	width: 100%;
 	display: block;
-	float: left;
+	/* float: left; */
 	margin-top: 2em}
 .customers-content__case-studies__container: last-child {
 	margin-right: 0}
@@ -3554,7 +3552,7 @@ body.js-mobile-nav-open {
 	margin-top: 0em}
 @media screen and (min-width: 769px) {
 	.customers-content__case-study__item {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 31.76157%;
@@ -3625,7 +3623,7 @@ body.js-mobile-nav-open {
 .customers-content__logos__container {
 	display: block;
 	clear: both;
-	float: left;
+	/* float: left; */
 	width: 100%;
 	margin-top: 2em}
 .customers-content__logos__container: first-of-type {
@@ -3643,7 +3641,7 @@ body.js-mobile-nav-open {
 	list-style-image: none;
 	margin: 0}
 .customers-content__logos__container li {
-	float: left;
+	/* float: left; */
 	margin-left: 2em;
 	margin-bottom: 2em}
 .login-business-container {
@@ -3652,7 +3650,7 @@ body.js-mobile-nav-open {
 	margin-bottom: 2em}
 @media screen and (min-width: 1025px) {
 	.login-business__guidance {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 57.35098%;
@@ -3695,7 +3693,7 @@ body.js-mobile-nav-open {
 @media screen and (min-width: 1025px) {
 	.login-trial-path {
 	margin-left: 8.5298%;
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 31.76157%;
@@ -3762,7 +3760,7 @@ body.js-mobile-nav-open {
 @media screen and (min-width: 1025px) {
 	.sign-up-business-form {
 	margin-left: 4.2649%;
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 31.76157%;
@@ -3814,7 +3812,7 @@ body.js-mobile-nav-open {
 @media screen and (min-width: 1025px) {
 	.sign-up-supporting-content {
 	margin-left: 8.5298%;
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 48.82117%;
@@ -3828,7 +3826,7 @@ body.js-mobile-nav-open {
 .learning-center-main-content__container {
 	margin-top: 3em;
 	display: block;
-	float: left;
+	/* float: left; */
 	margin-bottom: 2em}
 .page-template-page-learning-center-php article header {
 	padding: 70px 1em 20px 1em}
@@ -3856,7 +3854,7 @@ body.js-mobile-nav-open {
 }
 .page-template-page-learning-center-php article .featured-section {
 	margin-top: 5em;
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 7.42297%;
 	width: 100%;
@@ -3865,7 +3863,7 @@ body.js-mobile-nav-open {
 	margin-right: 0}
 @media screen and (min-width: 769px) {
 	.page-template-page-learning-center-php article .featured-section {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 3.57866%;
 	width: 100%}
@@ -3874,7 +3872,7 @@ body.js-mobile-nav-open {
 }
 @media screen and (min-width: 1025px) {
 	.page-template-page-learning-center-php article .featured-section {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 31.76157%;
@@ -3914,7 +3912,7 @@ body.js-mobile-nav-open {
 	display: block;
 	float: left}
 .page-template-page-learning-center-php .fold-content .resource-main,.category .fold-content .resource-main {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 7.42297%;
 	width: 100%}
@@ -3922,7 +3920,7 @@ body.js-mobile-nav-open {
 	margin-right: 0}
 @media screen and (min-width: 1025px) {
 	.page-template-page-learning-center-php .fold-content .resource-main,.category .fold-content .resource-main {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 65.88078%}
@@ -3930,7 +3928,7 @@ body.js-mobile-nav-open {
 	margin-right: 0}
 }
 .page-template-page-learning-center-php .resource-sidebar,.category .resource-sidebar {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 7.42297%;
 	width: 100%}
@@ -3938,7 +3936,7 @@ body.js-mobile-nav-open {
 	margin-right: 0}
 @media screen and (min-width: 1025px) {
 	.page-template-page-learning-center-php .resource-sidebar,.category .resource-sidebar {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 31.76157%}
@@ -3949,10 +3947,10 @@ body.js-mobile-nav-open {
 	padding-top: 0}
 .page-template-page-learning-center-php .ebook-cta,.category .ebook-cta {
 	width: 100%;
-	float: left;
+	/* float: left; */
 	background: #f5f5f3}
 .page-template-page-learning-center-php .ebook-cta .ebook-cta__image,.category .ebook-cta .ebook-cta__image {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 31.76157%}
@@ -3962,7 +3960,7 @@ body.js-mobile-nav-open {
 	display: block}
 .page-template-page-learning-center-php .ebook-cta .ebook-cta__copy,.category .ebook-cta .ebook-cta__copy {
 	margin-top: .5em;
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 65.88078%}
@@ -4034,7 +4032,7 @@ body.js-mobile-nav-open {
 	padding-top: 2em;
 	padding-bottom: 2em}
 .category #topArticles .col-md-4 {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 3.57866%;
 	width: 100%}
@@ -4042,7 +4040,7 @@ body.js-mobile-nav-open {
 	margin-right: 0}
 @media screen and (min-width: 1025px) {
 	.category #topArticles .col-md-4 {
-	float: left;
+	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
 	width: 31.76157%}
@@ -4084,7 +4082,7 @@ body.js-mobile-nav-open {
 	margin-top: .5em !important}
 .leankit-blog .alignleft {
 	display: inline;
-	float: left;
+	/* float: left; */
 	margin-right: .5em}
 @media screen and (min-width: 480px) {
 	.leankit-blog .alignleft {
