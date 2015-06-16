@@ -95,7 +95,7 @@ body:not(.post-template) .post-title, .post-title { font-size: 2.2rem; }
         -moz-box-sizing: border-box;
         box-sizing: border-box;
         height: auto;
-        height: 20vh;
+        height: 26vh;
     }
 }
 
