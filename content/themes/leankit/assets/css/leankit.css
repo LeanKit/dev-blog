@@ -97,11 +97,13 @@ body:not(.post-template) .post-title, .post-title { font-size: 2.2rem; }
         height: auto;
         height: 26vh;
     }
+
 }
 
 @media only screen and (max-width: 500px) {
 
 	.post { margin: 2rem 16px; }
+	.page-title, .no-cover .page-title { margin: 4rem auto 0px; }
 }
 
 
