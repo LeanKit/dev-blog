@@ -51,6 +51,7 @@ body:not(.post-template) .post-title, .post-title { font-size: 2.2rem; }
 .post-footer p { font-size: 1rem; }
 .author-meta { font-size: 1rem; }
 .post-footer .share a { font-size: 1rem; margin: 1rem 1rem 1rem 0px; }
+.author-profile { padding-bottom: 0px; }
 .author-profile .author-meta { font-size: 1em; }
 .author-bio { font-size: 1.2em; font-weight: 300; }
 .author-head.main-header {
