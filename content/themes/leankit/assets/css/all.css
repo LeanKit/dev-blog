@@ -2041,7 +2041,7 @@ body.js-mobile-nav-open {
 	display: table}
 .global-section-navigation__container {
 	border-bottom: 1px solid #d7d9d6;
-	padding: 2em 0 0;
+	/* padding: 2em 0 0; */
 	/* float: left; */
 	display: block;
 	margin-right: 2.35765%;
