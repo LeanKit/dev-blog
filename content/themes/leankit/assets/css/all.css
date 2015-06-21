@@ -553,7 +553,7 @@ body {
 	.site-header,.site-fixed-header {
 	padding-left: 15px;
 	padding-right: 15px;
-	height: 92px}
+	height: 68px}
 }
 @media screen and (min-width: 1200px) {
 	.site-header,.site-fixed-header {
@@ -619,8 +619,8 @@ body {
 }
 @media screen and (min-width: 1025px) {
 	.site-header {
-	padding-top: 20px;
-	padding-bottom: 20px}
+	padding-top: 9px;
+	padding-bottom: 9px}
 }
 .main-navigation {
 	color: #ffffff;
