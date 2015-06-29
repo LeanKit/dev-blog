@@ -3,3 +3,5 @@ logs
 node_modules
 content/data/*.db
 config.js
+config.*.js
+iisnode.yml
