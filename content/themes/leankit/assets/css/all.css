@@ -2086,6 +2086,9 @@ body.js-mobile-nav-open {
 	font-weight: 300}
 .global-content p {
 	margin: 0 0 2em}
+.global-content ol {
+	list-style-type: decimal;
+	margin-left: 1.6em;}
 .global-content ul {
 	list-style-type: disc;
 	margin-left: 1em;
